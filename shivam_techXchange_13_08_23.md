@@ -5,7 +5,7 @@
 
 **Project Name: CGPA Calculator **
 
-**Contributors: []**Trishansh , Shivam , Vishal
+**Contributors: []**Trishansh , Shivam  , Vishal
 **GitHub Repository: [github.com]**
 
 # Project Description
